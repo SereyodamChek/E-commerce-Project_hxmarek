@@ -95,8 +95,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any questions or feedback, feel free to reach out:
 
-- **Email**: example@example.com
-- **GitHub**: [hxmarek](https://github.com/hxmarek)
+GitHub: [https://github.com/SereyodamChek](https://github.com/SereyodamChek)
 
 ## Releases
 
